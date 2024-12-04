@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 **Keep simple, testable and do not repeat these are my coding rules**
-- Testcase should be specific before start coding. And do not change as possible.
+- Testcase should be specified before start coding. And do not change as possible.
