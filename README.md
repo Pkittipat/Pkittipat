@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- Keep simple, testable and do not repeat these are my coding rules
+**Keep simple, testable and do not repeat these are my coding rules**
+- Testcase should be specific before start coding.
