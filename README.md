@@ -17,5 +17,3 @@ Here are some ideas to get you started:
 
 **Keep simple, testable and do not repeat these are my coding rules**
 - Testcase should be specified before start coding. And do not change as possible.
-
-**Do not do the inifinite pull to request for mobile app**
